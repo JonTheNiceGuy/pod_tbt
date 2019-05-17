@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="playlist">
+<h1>{{ page.title }}</h1>
+{% if page.ogg != '' or page.mp3 != '' %}
+<audio id='player' controls='control' preload='none'>
+{% if page.ogg != '' %}<source src="{{ page.ogg }}" type="audio/ogg" />{% endif %}
+{% if page.mp3 != '' %}<source src="{{ page.mp3 }}" type="audio/mp3" />{% endif %}
+Your browser doesn't support the audio element. Download: {% if page.ogg != '' %}<a href="{{ page.ogg }}">Ogg</a>{% endif %} {% if page.mp3 != '' %}<a href="{{ page.mp3 }}">MP3</a>{% endif %}
+</audio>
+{% endif %}
+{% if page.image != '' %}{% include image.html src=page.image alt=page.alt %}{% endif %}
+{{ content }}
+</div>

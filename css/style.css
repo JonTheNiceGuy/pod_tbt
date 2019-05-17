@@ -1,0 +1,407 @@
+/*
+   THIS STYLESHEET IS FOR MY podcast SITE  */
+ 
+ html {
+    overflow-y: scroll;
+}
+
+ body {
+	background: url("../images/background/lightgrey.png");
+	font-family: helvetica, arial, sans-serif;
+	margin: 0px;
+ }
+ 
+ h1, h3 {
+	color:  #9d8171;
+	font-weight: normal;
+ }
+ 
+ blockquote {
+	margin:  18px 0;
+	font-size: 14px;
+	padding: 12px 28px;
+	background-image: url(../images/background/quotes.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+a, img {
+	border: none;
+}
+
+/********************/ 
+/* banner     CSS */
+/*******************/
+ 
+.bannerbackground {
+	width: 100%;
+	background: url("../images/background/darkgrey.png");
+	padding-top: 30px;
+}
+ 
+.banner {
+	position: relative;
+	margin: auto; 
+	width: 916px;
+	background: #fff;
+	border-radius: 5px;
+	padding: 0px;
+	text-align: left;
+	height: 100px;
+	overflow: hidden;
+}
+
+.inlay {
+  display: none;
+	position: absolute;
+	border-radius: 5px;
+	opacity: 0.9;
+	top: 0.5em;
+	right: 4em; 
+	width: 310px;
+	padding: 0 4px;
+	margin: 0px; 
+  background-color: #fff; 
+/*	color: #ff8400; */ 
+  color: #9d8171;
+	font-weight: bold; 
+	font-size: 36px;
+}
+
+.inlay p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+  padding-bottom: 4px;
+}
+
+/*
+.banner h1 {
+	color: #787878;
+	letter-spacing: -1px; 
+	font-size: 34px;
+	margin: 0px 8px 0px 15px;
+}
+*/
+
+.banner a {
+	color: #787878;
+	text-decoration: none;
+}
+
+/*
+.banner p {
+	color: #DC7D00;
+	letter-spacing: 1px;
+	margin: 0px 8px 5px 15px;
+}  */
+
+.banner img {
+	color: #4A4A4A;
+	/* margin: 5px 0px 0px 0px;  */
+	margin: 0; 
+} 
+
+
+
+/*******************/
+/* navbar     CSS */
+/*******************/
+
+
+.navbar {
+	margin: 1px auto;
+	width: 916px;
+	background: #ff8400;
+	border-radius: 2px;
+	padding: 2px 0 4px 0;
+	font-size: 15px; 
+}
+
+.navbar ul {
+	margin: 6px 0px 4px 0;
+} 
+
+.navbar li {
+	display: inline;
+}
+
+.navbar li:after {
+	content: '-';
+	padding: 0 10px;
+	color: #fff
+}
+
+.navbar li:last-child:after {
+	content: none;
+}
+
+.navbar a:link {
+	color: #fff;
+	text-decoration: none;
+}
+
+.navbar a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+ 	color: #9d8171;
+	background-color: white;
+	border-radius: 2px;
+	margin: -4px;
+	padding: 4px;
+	text-decoration: none;
+}
+
+body#home a#homenav,
+body#ogg a#oggnav,
+body#mp3 a#mp3nav,
+body#about a#aboutnav,
+body#contact a#contactnav {
+	color: #9d8171;
+	background-color: white;
+	border-radius: 2px;
+	margin: -4px;
+	padding: 4px;
+	text-decoration: none;
+}
+
+/****************************/
+/* MAIN CONTENT CSS  */ 
+/****************************/
+
+.content {
+	margin: auto;
+	width: 916px;
+	background: #fff;
+	border-radius: 5px 5px 0px 0px;
+	padding: 21px 0 0 0;
+	margin-top: 1px;
+}
+
+.content ul {
+	list-style: url(../images/li_orange.jpg);
+}
+
+.content li {
+	margin: 3px 0;
+}
+	
+.content h1 {
+	position: relative;
+	left: 5px;
+	width: 470px;
+/* 	background: #f3f3f3; 
+	color: #787878; */
+  color: #9d8171;
+	font-size: 22px;
+	margin-top: 15px;
+	margin-left: -20px;
+	padding: 7px 15px;
+}
+
+.content h2 {
+	position: relative;
+	left: 5px;
+	width: 470px;
+/* 	background: #f3f3f3; 
+	color: #787878; 
+	color: #ff8800; */
+  color: #9d8171;
+	font-size: 16px;
+	margin-top: 5px;
+	margin-left: -20px;
+	margin-bottom: 0px;
+	padding: 7px 15px;
+}
+
+
+.content h4 {
+	position: relative;
+	left: 5px;
+	width: 450px;
+/* 	background: #f3f3f3;  */
+	color: #787878;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 1px;
+	margin-left: -20px;
+	padding: 3px 15px 0px 15px;
+}
+
+
+.content h3 {
+	margin: 3px 0;
+	padding: 7px 0;
+  color: #9d8171;
+}
+
+.content .playlist {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0 15px 0 30px;
+	width: 540px;
+}
+
+.content .playlist p {
+	padding: 0px;
+	margin-top: 8px;
+	left: 25px;
+	padding-top: 0px;
+	font-size: 14px;
+}
+
+.content .playlist p.releasedate {
+	margin-top: 0;
+	margin-left: 0;
+	font-size: 11px;
+}
+
+
+.content .playlist img {
+  float: left;
+	padding-top: 7px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.content .playlist .up img {
+  float: left;
+	padding: 7px 0px;
+}
+
+.content #player {
+  width: 400px;
+}
+
+.content p {
+	font-size: 14px;
+	margin: 5px  0px 10px 15px;
+	color: grey;
+}
+
+.content .mono {
+	font-family: monospace;
+	padding-left: 10px;
+	color: #b6b6b4;
+}
+
+.content .intro {
+	position: relative;
+	float: right;
+	margin-right:35px;
+	width: 255px;
+}
+
+.content .intro p {
+	font-size: 14px;
+	margin: 5px 0px 10px 0px;
+}
+
+.content ol,
+.content .intro ul {
+	margin-top: 8px;
+	left: 25px;
+	font-size: 14px;
+	color: grey;
+}
+
+.content hr {
+	border-top: 1px;
+	color: #787878;
+}
+
+
+.content a {
+	color: #f16b00;
+}
+
+.content a:link {
+	text-decoration: none;
+}
+
+.content a:hover {
+	text-decoration: underline;
+}
+
+.contenttext blockquote {
+	margin-top: 30px;
+	margin-left: 40px;
+	width: 400px;
+}
+
+.sytle2 blockquote {
+	width: 400px;
+}
+
+.clear {
+	margin: 0;
+	padding: 0;
+	clear: both;
+}
+
+/* FOOTER CSS */
+
+.footer {
+	margin: auto;
+	width: 916px;
+	background: #b9b9b9;
+	border-radius: 0px 0px 5px 5px;
+	padding: 10px 0 10px 0;
+	color: #787878;
+	font-size: 11px;
+}
+
+.footer p {
+	margin: 1px;
+}
+
+.footer a:link {
+	color: #2f4f4f;
+	text-decoration: none;
+}
+   
+.footer a:hover {
+	text-decoration: underline;
+}
+
+.footer a:visited {
+	color: #2f4f4f;
+}
+
+
+	
+.footer .businesscard {
+	float: right;
+	width: 220px;
+	margin: 20px 38px 20px 58px;
+	background-color: #E6E6E6;
+	border-radius: 5px;
+	padding: 15px 0 15px 0;
+	text-align: center;
+}
+
+.footer .businesscard p {
+	margin: -1px 0;
+}
+.footer .businesscard #bigname {
+	color: #bf7807; 
+	font-size:18px;
+}
+
+.footer .businesscard #bigphone {
+	/* color: #fff; */
+	font-size: 17px;
+}
+
+.footer .logos {
+	float: left;
+	margin: 35px 0 5px 25px;
+}
+
+#clear {
+	clear: both;
+}
+
