@@ -1,0 +1,17 @@
+---
+layout: main
+---
+{% for post in site.posts %}
+    {% if latest_series == blank or latest_series == nil %}
+        {% assign latest_series = post.series %}
+    {% endif %}
+    {% if post.series == latest_series %}
+        {% if series_heading == blank or series_heading == nil %}
+<h1>Series {{ post.series }} - listen to the podcast</h1>
+            {% assign series_heading = 'Defined' %}
+        {% endif %}
+
+{% include post.html post=post %}
+
+    {% endif %}
+{% endfor %}

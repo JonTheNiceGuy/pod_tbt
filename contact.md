@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact.php/
+page_name: contact
 ---
 # How to get in touch
 
@@ -15,12 +16,12 @@ All contact can be made by sending a good old fashioned email to...
 
 We would like to take this opportunity to thank you for considering to donate to the binary times podcasting duo.  All donations get fed back into the project.
 Please send your preferred donation amount from within your own paypal account to... <span style="color: #ff8800">support@thebinarytimes.net</span>
-<a href="https://www.paypal.com/"><img src="images/PaypalDonate.png" alt="Donate with Paypal" width="130" height="30"></a>
+{% include image.html src="PaypalDonate.png" alt="Donate with Paypal" width="130" height="30" link="https://www.paypal.com" %}<br>
 
 <hr> 
 # Support us with ether
 
-{% include image.html src="images/ethPublicAddress.png" alt="Donate some ether" width="150" height="157" %}
+{% include image.html src="ethPublicAddress.png" alt="Donate some ether" width="150" height="157" %}
 
 We appreciate your support, if you like our podcast please feel free to donate any amount, it all helps keep the lights on and the content producing.
 or use the following address:

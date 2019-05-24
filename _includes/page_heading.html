@@ -1,0 +1,18 @@
+<body id="{% if page.page_name == blank or page.page_name == nil %}home{% else %}{{ page.page_name }}{% endif %}">
+<div class="bannerbackground" id="top">
+	<div class="banner">
+		<a href="{{ site.baseurl }}/index.php"><img src="{{ site.baseurl }}/assets/images/banner/BT_PodcastWebBanner.png" alt="Welcome to the Binary Times podcast.  Two Irish chaps attempt to entertain and enlighten with plenty of craic and technology news, features, ideals and culture." width="916" height="100"></a>
+		<div class="inlay">
+			<p style="margin-top: 0px; margin-bottom: -10px">The Binary Times</p>
+			<p style="margin-top: -10px; margin-bottom: 0px; font-size: 12px; color: #ff8800; text-align: center">free software / hardware / culture podcast</p>
+		</div>
+	</div>
+</div>
+
+<div class="navbar">
+	<ul>
+		<li><a href="{{ site.baseurl }}/" id="homenav">Home</a></li>
+		<li><a href="{{ site.baseurl }}/about.php" id="aboutnav">About us</a></li>
+		<li><a href="{{ site.baseurl }}/contact.php" id="contactnav">Contact</a></li>
+	</ul> 
+</div>

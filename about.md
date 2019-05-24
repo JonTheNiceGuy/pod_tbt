@@ -2,6 +2,7 @@
 layout: default
 title: A little bit about us
 permalink: /about.php/
+page_name: about
 ---
 # Mark
 

@@ -1,0 +1,37 @@
+<hr />
+<div id="entire_s{{ post.series }}e{{ post.episode }}">
+<a name="s{{ post.series }}e{{ post.episode }}">
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<p class="releasedate">{{ post.date | date: "%a %d %m, %Y" }}</p>
+
+{% if post.ogg|default('') != '' or post.mp3|default('') != '' %}
+<audio id="player" controls="controls" preload="none">
+    {% if post.ogg|default('') != '' %}
+        <source src="{{ post.ogg }}" type="audio/ogg">
+    {% endif %}
+    {% if post.mp3|default('') != '' %}
+        <source src="{{ post.mp3 }}" type="audio/mp3"> 
+    {% endif %}
+    Your browser does not support the audio element.
+</audio>
+{% endif %}
+
+<h3>Timeline companion</h3>
+
+{% if post.image != '' %}
+<img
+    src="{{ site.baseurl }}/assets/images/episode_images/{{ post.image }}"
+    alt="{% if post.image_alt != '' %}{{ post.image_alt }}{% else %}{{ post.title }} Post Image{% endif %}"
+    width="230"
+    height="191">
+{% endif %}
+<div id="timeline_s{{ post.series }}e{{ post.episode }}">
+{{ post.content }}
+</div>
+
+<p>&nbsp;</p>
+<div class="up"><p><a href="#top"><img src="{{ site.baseurl }}/assets/images/backtotop.png" alt="Back to top" title="Back to top" width="40" height="40"></a></p></div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

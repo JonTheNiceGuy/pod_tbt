@@ -1,4 +1,20 @@
 <figure class="image">
-  <img src="/{{ include.src }}" {% if include.width | default('') != '' %}width="{{ include.width }}"{% endif %} {% if include.height%}height="{{ include.height }}"{% endif %} {% if include.alt | default('') != '' %}alt="{{ include.alt }}"{% endif %}>
-  {% if include.alt | default('') != '' %}<figcaption>{{ include.alt }}</figcaption>{% endif %}
+  {% if include.link | default('') != '' %}
+    <a href="{{ include.link }}">
+  {% endif %}
+  <img src="{{ site.baseurl }}/assets/images/{{ include.src }}" {% if include.width | default('') != '' %}width="{{ include.width }}"{% endif %} {% if include.height%}height="{{ include.height }}"{% endif %} {% if include.alt | default('') != '' %}alt="{{ include.alt }}"{% endif %}>
+  {% if include.link | default('') != '' %}
+    </a>
+  {% endif %}
+  {% if include.alt | default('') != '' %}
+    <figcaption>
+      {% if include.link | default('') != '' %}
+        <a href="{{ include.link }}">
+      {% endif %}
+      {{ include.alt }}
+      {% if include.link | default('') != '' %}
+        </a>
+      {% endif %}
+    </figcaption>
+  {% endif %}
 </figure>
