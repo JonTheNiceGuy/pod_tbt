@@ -4,8 +4,10 @@ ogg: http://archive.org/download/thebinarytimes_S05E10_fado/thebinarytimes_S05E1
 mp3: http://archive.org/download/thebinarytimes_S05E10_fado/thebinarytimes_S05E10_fado.mp3
 layout: post
 permalink: /series5.php/episode10
-image: images/ThePodcastersS05E10.png
+image: ThePodcastersS05E10.png
 image_alt: Just the two of us, Mary and Wayne of The Binary Times Podcast
+series: 5
+episode: 10
 ---
 00:24 Wayne welcomes us to Series 5 Episode 10, and the guys discuss the weather and the impending heatwave.
 
