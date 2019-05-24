@@ -1,3 +1,6 @@
+---
+permalink: /assets/css/style.css
+---
 /*
    THIS STYLESHEET IS FOR MY podcast SITE  */
  
@@ -6,7 +9,7 @@
 }
 
  body {
-	background: url("../images/background/lightgrey.png");
+	background: url("{{ site.baseurl }}/assets/images/background/lightgrey.png");
 	font-family: helvetica, arial, sans-serif;
 	margin: 0px;
  }
@@ -20,7 +23,7 @@
 	margin:  18px 0;
 	font-size: 14px;
 	padding: 12px 28px;
-	background-image: url(../images/background/quotes.png);
+	background-image: url("{{ site.baseurl }}/assets/images/background/quotes.png");
 	background-position: top left;
 	background-repeat: no-repeat;
 }
@@ -35,7 +38,7 @@ a, img {
  
 .bannerbackground {
 	width: 100%;
-	background: url("../images/background/darkgrey.png");
+	background: url("{{ site.baseurl }}/assets/images/background/darkgrey.png");
 	padding-top: 30px;
 }
  
