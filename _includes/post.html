@@ -2,7 +2,11 @@
 <hr />
 <div id="entire_s{{ post.series }}e{{ post.episode }}">
 <a name="s{{ post.series }}e{{ post.episode }}">
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h2>
+{% if post.title_prefix != nil and post.title_prefix != empty %}{{ post.title_prefix }}{% endif %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+</h2>
+{% if post.guests != nil and post.guests != empty %}<p style="margin-top:0px">with {{ post.guests }}</p>{% endif %}
 <p class="releasedate">{{ post.date | date: "%a %d %m, %Y" }}</p>
 
 {% if post.ogg|default('') != '' or post.mp3|default('') != '' %}
