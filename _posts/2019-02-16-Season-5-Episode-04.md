@@ -3,7 +3,7 @@ title: Series 5 Episode 04
 ogg: http://archive.org/download/thebinarytimes_S05E04_halainn/thebinarytimes_S05E04_halainn.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E04_halainn/thebinarytimes_S05E04_halainn.mp3
 layout: post
-permalink: /series5.php/episode04
+permalink: /series5/episode04
 image: ThePodcastersS05E04.png
 image_alt: Almost half way through the season
 series: 5

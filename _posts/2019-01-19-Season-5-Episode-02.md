@@ -3,7 +3,7 @@ title: Series 5 Episode 02
 ogg: http://archive.org/download/thebinarytimes_S05E02_doras/thebinarytimes_S05E02_doras.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E02_doras/thebinarytimes_S05E02_doras.mp3
 layout: post
-permalink: /series5.php/episode02
+permalink: /series5/episode02
 image: ThePodcastersS05E02.png
 image_alt: Mark and Wayne, settling in to Episode 2
 series: 5

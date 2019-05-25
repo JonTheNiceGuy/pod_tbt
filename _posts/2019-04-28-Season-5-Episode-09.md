@@ -3,7 +3,7 @@ title: Series 5 Episode 09
 ogg: http://archive.org/download/thebinarytimes_S05E09_fluich/thebinarytimes_S05E09_fluich.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E09_fluich/thebinarytimes_S05E09_fluich.mp3
 layout: post
-permalink: /series5.php/episode09
+permalink: /series5/episode09
 image: ThePodcastersS05E09.png
 image_alt: Sebastian from the Bristol Linux Presentation Day joins us for a chat
 series: 5

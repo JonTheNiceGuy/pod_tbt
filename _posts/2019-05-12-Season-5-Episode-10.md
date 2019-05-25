@@ -3,7 +3,7 @@ title: Series 5 Episode 10
 ogg: http://archive.org/download/thebinarytimes_S05E10_fado/thebinarytimes_S05E10_fado.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E10_fado/thebinarytimes_S05E10_fado.mp3
 layout: post
-permalink: /series5.php/episode10
+permalink: /series5/episode10
 image: ThePodcastersS05E10.png
 image_alt: Just the two of us, Mary and Wayne of The Binary Times Podcast
 series: 5

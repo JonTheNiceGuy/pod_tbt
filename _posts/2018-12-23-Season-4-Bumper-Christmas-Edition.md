@@ -3,7 +3,7 @@ title: Series 4 Bumper Christmas Edition
 ogg: http://archive.org/download/thebinarytimes_S04E12b_nollaig/thebinarytimes_S04E12b_nollaig.ogg
 mp3: http://archive.org/download/thebinarytimes_S04E12b_nollaig/thebinarytimes_S04E12b_nollaig.mp3
 layout: post
-permalink: /series4.php/episode12b
+permalink: /series4/episode12b
 image: ThePodcastersS04E12b2.jpg
 image_alt: Merry Xmas everyone.
 series: 4

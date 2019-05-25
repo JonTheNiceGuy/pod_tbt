@@ -3,7 +3,7 @@ title: Series 5 Episode 05
 ogg: http://archive.org/download/thebinarytimes_S05E05_inniu/thebinarytimes_S05E05_inniu.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E05_inniu/thebinarytimes_S05E05_inniu.mp3
 layout: post
-permalink: /series5.php/episode05
+permalink: /series5/episode05
 image: ThePodcastersS05E05.png
 image_alt: They're still at it, the binary times guys in action
 series: 5

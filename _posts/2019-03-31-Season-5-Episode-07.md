@@ -3,7 +3,7 @@ title: Series 5 Episode 07
 ogg: http://archive.org/download/thebinarytimes_S05E07_fuinneog/thebinarytimes_S05E07_fuinneog.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E07_fuinneog/thebinarytimes_S05E07_fuinneog.mp3
 layout: post
-permalink: /series5.php/episode07
+permalink: /series5/episode07
 image: ThePodcastersS05E07.png
 image_alt: Ben Klaasen joins the Binary Times guys in this episode
 series: 5

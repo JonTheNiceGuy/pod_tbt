@@ -1,0 +1,27 @@
+---
+layout: main
+---
+{%- for post in site.posts -%}
+    {%- if page.series == blank or page.series == nil -%}
+        {%- assign page.series = post.series -%}
+    {%- endif -%}
+    {%- if post.series == page.series -%}
+        {%- if series_heading == blank or series_heading == nil -%}
+            <h2 style="padding-top: 10px">Series {{ page.series }} Episodes</h2><p>
+            {%- assign series_heading = 'Defined' -%}
+        {%- endif -%}
+        {{ episode_delimiter | default: '' }}<a href="#s{{ post.series | plus: 100 | slice: 1,2 }}e{{ post.episode | plus: 100 | slice: 1,2 }}">{{ post.title }}</a>
+        {%- assign episode_delimiter = ", " -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{% for post in site.posts %}
+    {% if page.series == blank or page.series == nil %}
+        {% assign page.series = post.series %}
+    {% endif %}
+    {% if post.series == page.series %}
+
+{% include post.html post=post %}
+
+    {% endif %}
+{% endfor %}

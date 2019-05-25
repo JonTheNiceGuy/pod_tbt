@@ -3,7 +3,7 @@ title: Series 5 Episode 01
 ogg: http://archive.org/download/thebinarytimes_S05E01_thost/thebinarytimes_S05E01_thost.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E01_thost/thebinarytimes_S05E01_thost.mp3
 layout: post
-permalink: /series5.php/episode01
+permalink: /series5/episode01
 image: ThePodcastersS05E01.png
 image_alt: Mark and Wayne, kicking off Series 5
 series: 5

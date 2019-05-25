@@ -3,7 +3,7 @@ title: Series 5 Episode 03
 ogg: http://archive.org/download/thebinarytimes_S05E03_bula/thebinarytimes_S05E03_bula.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E03_bula/thebinarytimes_S05E03_bula.mp3
 layout: post
-permalink: /series5.php/episode03
+permalink: /series5/episode03
 image: ThePodcastersS05E03.png
 image_alt: Mark and Wayne, back in body for Episode 3
 series: 5

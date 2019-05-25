@@ -3,7 +3,7 @@ title: Series 5 Episode 06
 ogg: http://archive.org/download/thebinarytimes_S05E06_padraig/thebinarytimes_S05E06_padraig.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E06_padraig/thebinarytimes_S05E06_padraig.mp3
 layout: post
-permalink: /series5.php/episode06
+permalink: /series5/episode06
 image: ThePodcastersS05E06.png
 image_alt: It's our Solokeys competition results.
 series: 5

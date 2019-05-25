@@ -3,7 +3,7 @@ title: Series 5 Episode 08
 ogg: http://archive.org/download/thebinarytimes_S05E08_dhuit/thebinarytimes_S05E08_dhuit.ogg
 mp3: http://archive.org/download/thebinarytimes_S05E08_dhuit/thebinarytimes_S05E08_dhuit.mp3
 layout: post
-permalink: /series5.php/episode08
+permalink: /series5/episode08
 image: ThePodcastersS05E08.png
 image_alt: Michael Tunnell joins us in the fun Binary Times episode
 series: 5
