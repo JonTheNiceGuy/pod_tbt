@@ -65,7 +65,6 @@ a, img {
 	padding: 0 4px;
 	margin: 0px; 
   background-color: #fff; 
-/*	color: #ff8400; */ 
   color: #9d8171;
 	font-weight: bold; 
 	font-size: 36px;
@@ -77,26 +76,10 @@ a, img {
   padding-bottom: 4px;
 }
 
-/*
-.banner h1 {
-	color: #787878;
-	letter-spacing: -1px; 
-	font-size: 34px;
-	margin: 0px 8px 0px 15px;
-}
-*/
-
 .banner a {
 	color: #787878;
 	text-decoration: none;
 }
-
-/*
-.banner p {
-	color: #DC7D00;
-	letter-spacing: 1px;
-	margin: 0px 8px 5px 15px;
-}  */
 
 .banner img {
 	color: #4A4A4A;
@@ -183,10 +166,6 @@ body#contact a#contactnav {
 	margin-top: 1px;
 }
 
-.content ul {
-	list-style: url(../images/li_orange.jpg);
-}
-
 .content li {
 	margin: 3px 0;
 }
@@ -195,9 +174,7 @@ body#contact a#contactnav {
 	position: relative;
 	left: 5px;
 	width: 470px;
-/* 	background: #f3f3f3; 
-	color: #787878; */
-  color: #9d8171;
+	color: #9d8171;
 	font-size: 22px;
 	margin-top: 15px;
 	margin-left: -20px;
@@ -208,10 +185,7 @@ body#contact a#contactnav {
 	position: relative;
 	left: 5px;
 	width: 470px;
-/* 	background: #f3f3f3; 
-	color: #787878; 
-	color: #ff8800; */
-  color: #9d8171;
+	color: #9d8171;
 	font-size: 16px;
 	margin-top: 5px;
 	margin-left: -20px;
@@ -224,7 +198,6 @@ body#contact a#contactnav {
 	position: relative;
 	left: 5px;
 	width: 450px;
-/* 	background: #f3f3f3;  */
 	color: #787878;
 	font-size: 14px;
 	font-weight: bold;
@@ -285,7 +258,8 @@ body#contact a#contactnav {
 	color: grey;
 }
 
-.content .mono {
+.content .mono,
+.content .highlighter-rouge {
 	font-family: monospace;
 	padding-left: 10px;
 	color: #b6b6b4;
@@ -304,7 +278,7 @@ body#contact a#contactnav {
 }
 
 .content ol,
-.content .intro ul {
+.content ul {
 	margin-top: 8px;
 	left: 25px;
 	font-size: 14px;
