@@ -23,7 +23,7 @@
 
 <h3>Timeline companion</h3>
 
-{% if post.image != '' %}
+{% if post.image != nil and post.image != empty %}
 <img
     src="{{ site.baseurl }}/assets/images/episode_images/{{ post.image }}"
     alt="{% if post.image_alt != '' %}{{ post.image_alt }}{% else %}{{ post.title }} Post Image{% endif %}"

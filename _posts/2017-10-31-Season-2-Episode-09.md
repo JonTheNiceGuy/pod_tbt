@@ -3,7 +3,7 @@ title: The Binary Times - Series 2 Episode 9
 ogg: http://archive.org/download/thebinarytimes_S02E09_Samhain/thebinarytimes_S02E09_Samhain.ogg
 mp3: http://archive.org/download/thebinarytimes_S02E09_Samhain/thebinarytimes_S02E09_Samhain.mp3 
 layout: post
-permalink: /series/episode
+permalink: /series2/episode9
 image: ThePodcastersS02E09.png
 image_alt: Marks new office
 series: 02

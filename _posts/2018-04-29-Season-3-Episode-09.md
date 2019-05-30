@@ -3,7 +3,7 @@ title: The Binary Times - Series 3 Episode 9
 ogg: http://archive.org/download/thebinarytimes_S03E09_bron/thebinarytimes_S03E09_bron.ogg
 mp3: http://archive.org/download/thebinarytimes_S03E09_bron/thebinarytimes_S03E09_bron.mp3 
 layout: post
-permalink: /series/episode
+permalink: /series3/episode9
 image: ThePodcastersS03E09c.png
 image_alt: Its that time, Ubuntu 1804
 series: 03

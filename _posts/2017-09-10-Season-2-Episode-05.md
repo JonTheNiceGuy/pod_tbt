@@ -3,7 +3,7 @@ title: The Binary Times - Series 2 Episode 5
 ogg: http://archive.org/download/thebinarytimes_S02E05_Crioch/thebinarytimes_S02E05_Crioch.ogg
 mp3: http://archive.org/download/thebinarytimes_S02E05_Crioch/thebinarytimes_S02E05_Crioch.mp3 
 layout: post
-permalink: /series/episode
+permalink: /series2/episode5
 image: ThePodcastersS02E05.png
 image_alt: Even more tea.
 series: 02

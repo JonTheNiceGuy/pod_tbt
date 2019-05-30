@@ -4,7 +4,7 @@ guests: Mike Saunders
 ogg: http://archive.org/download/thebinarytimes_S03E07_Guten/thebinarytimes_S03E07_Guten.ogg
 mp3: http://archive.org/download/thebinarytimes_S03E07_Guten/thebinarytimes_S03E07_Guten.mp3 
 layout: post
-permalink: /series/episode
+permalink: /series3/episode7
 image: ThePodcastersS03E07.png
 image_alt: Its Mike Saunders
 series: 03
