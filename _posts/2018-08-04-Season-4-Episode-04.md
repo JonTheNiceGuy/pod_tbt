@@ -8,6 +8,7 @@ image: ThePodcastersS04E04.png
 image_alt: The Binary Times podcast, back with Mark
 series: 4
 episode: 4
+post_time: "10:40:00"
 ---
 
 00:24 Series 4 Episode 4 starts with Wayne regaling us from a wet and windy Bristol, his spirits have lifted as the wind blows through his hair and the rain saturates him from head to toe. Mark is concerned that Wayne is experiencing that amount of weather while recording in his house though Wayne assures us that he is doing an outside broadcast. Mark goes on to tell us that the rain has returned to Kilkishen. The guys go on to discuss their differences in opinion on the weather.

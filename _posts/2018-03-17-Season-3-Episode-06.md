@@ -8,6 +8,7 @@ image: ThePodcastersS03E06a.png
 image_alt: Mark hasnt prepared anything this week!!
 series: 03
 episode: 06
+post_time: "11:30:00"
 ---
 00:24 A very festive Irish greeting introduces the show this week, with suitable translations for our non-Gael-goer listeners by Wayne. It's cold in Bristol and it's cold in Kilkishen, the beast from the east is flexing its muscles once more it seems and snow is on the way.
 

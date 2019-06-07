@@ -8,6 +8,7 @@ image: ThePodcastersS02E10.png
 image_alt: Mark has a new drink.. drink..
 series: 02
 episode: 10
+post_time: "11:20:00"
 ---
 00:24 Wayne welcomes us to a somewhat darker Series 2 Episode 10. Darker in that the guys have moved their recording time forward to Friday night! Wayne checks his body temperature to turn on the heat, Mark loves the rain, and Wayne misses it. Bristol's so cool the sun shines even at night!
 

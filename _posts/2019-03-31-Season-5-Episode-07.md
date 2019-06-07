@@ -8,6 +8,7 @@ image: ThePodcastersS05E07.png
 image_alt: Ben Klaasen joins the Binary Times guys in this episode
 series: 5
 episode: 7
+post_time: "22:30:00"
 ---
 
 00:24 Wayne introduces us to Series 5 Episode 7 from a slightly foggy Bristol. Mark gives us his most accurate weather update ever thanks to his newly installed [/E/ OS](https://e.foundation/) on his [Nexus 4](https://en.wikipedia.org/wiki/Nexus_4).  Wayne goes on to introduce us to [Ben Klassen](https://twitter.com/@benklaasen), a software tester who thinks the term [QA](https://www.merriam-webster.com/dictionary/quality%20assurance) is a misnomer and wants to make software fit for purpose. It's shaping up to be a really lovely day where Ben is too!

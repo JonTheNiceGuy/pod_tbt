@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E08_Nilim/thebinarytimes_S01E
 mp3: http://archive.org/download/thebinarytimes_S01E08_Nilim/thebinarytimes_S01E08_Nilim.mp3 
 image: ThePodcasters8a.jpg
 image_alt: The Podcasters in full glory
+post_time: "18:00:00"
 ---
 00:24 Intro, changing weather! Wayne and Mark talk about false starts.
 

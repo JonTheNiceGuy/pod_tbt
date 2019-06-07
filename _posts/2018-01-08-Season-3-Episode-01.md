@@ -8,6 +8,7 @@ image: ThePodcastersS03E01.png
 image_alt: Its the start of the new season
 series: 03
 episode: 01
+post_time: "07:30:00"
 ---
 00:24 Wayne welcomes us to the first episode of Season Three! Yes indeed, Season 3 kicks off on a cold and brisk Sunday morning in Bristol and Kilkishen. The guys tell us about their Christmas revels.
 

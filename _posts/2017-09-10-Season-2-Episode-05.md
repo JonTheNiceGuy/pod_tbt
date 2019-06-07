@@ -8,6 +8,7 @@ image: ThePodcastersS02E05.png
 image_alt: Even more tea.
 series: 02
 episode: 05
+post_time: "12:10:00"
 ---
 00:25 Wayne almost forgets his intro through giddiness! Probably due to the fact that the sun is mostly shining in both locations...
 

@@ -8,6 +8,7 @@ image: ThePodcastersS03E08.png
 image_alt: Here we go again
 series: 03
 episode: 08
+post_time: "10:45:00"
 ---		
 00:24 Wayne welcomes us to Series 3 Episode 8 from a lovely and sunny Spring morning in Bristol. Mark remarks that it is over-cast in Kilkishen but hopes that Spring may be on the way, one day...
 

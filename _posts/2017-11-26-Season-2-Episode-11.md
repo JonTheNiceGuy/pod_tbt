@@ -8,6 +8,7 @@ image: ThePodcastersS02E11.png
 image_alt: Its a mumble session this week, Random picture here.
 series: 02
 episode: 11
+post_time: "11:30:00"
 ---
 00:24 Wayne welcomes us to the penultimate, action packed Episode 11 of Season 2. It's cold and dry, a nice combination!
 

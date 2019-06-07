@@ -8,6 +8,7 @@ image: ThePodcastersS05E09.png
 image_alt: Sebastian from the Bristol Linux Presentation Day joins us for a chat
 series: 5
 episode: 9
+post_time: "$1"
 ---
 00:24 Wayne introduces us to Series 5 Episode 9 of the Binary Times from a wet and windy Bristol. Mark tells us it's brightening up a bit in Kilkishen after they were battered by [storm Hannah](https://merrionstreet.ie/MerrionStreet/en/News-Room/News/NDFEM_Statement_on_Preparations_for_Storm_Hannah.html).</p>
 

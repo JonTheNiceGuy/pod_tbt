@@ -8,6 +8,7 @@ image: ThePodcastersS03E03.png
 image_alt: Here we go again, its Mark and Wayne.
 series: 03
 episode: 03
+post_time: "14:20:00"
 ---
 00:24 Wayne welcomes us to the third episode of Season Three! Bristol is crowdy and cloudy and a little bit cold, while Kilkishen is nice and Springy!
 

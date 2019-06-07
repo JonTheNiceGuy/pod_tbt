@@ -8,6 +8,7 @@ image: ThePodcastersS03E02.png
 image_alt: Its the start of the new season
 series: 03
 episode: 02
+post_time: "08:40:00"
 ---
 00:24 Wayne welcomes us to the second episode of Season Three! It's dark coz the guys are recording early so there's not much of a weather report I'm afraid. Dark is about as good as it gets!
 

@@ -6,6 +6,7 @@ layout: post
 permalink: /series1/episode1
 series: 1
 episode: 1
+post_time: "11:00:00"
 ---
 #### 'Under the hood' - <small>Desktop &amp; command line linux tips</small>
 

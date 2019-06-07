@@ -9,6 +9,7 @@ image: ThePodcastersS03E12.png
 image_alt: Mike Saunders is back to join us
 series: 03
 episode: 12
+post_time: "16:00:00"
 ---
 00:24 Wayne welcomes us to the final episode of Season 3 from a sunny but slightly cloudy Bristol. Mark tells us that it's murky in Kilkishen, with fog earlier and thunder storms yesterday, while Mike Saunders tells us that its rather grim in Southern Germany with golf ball size hail stones falling on his southern neighbours. The guys don't understand the weather, they just comment on the weather. Wayne welcomes Mike back once more to the show, and Mike's happy to be back!
 

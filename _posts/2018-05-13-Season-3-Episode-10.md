@@ -8,6 +8,7 @@ image: ThePodcastersS03E10a.png
 image_alt: Its podcast time again at the binary times.
 series: 03
 episode: 10
+post_time: "09:10:00"
 ---
 00:24 Wayne welcomes us to Season 3 Episode 10 from a slightly cloudy Bristol. The morning has been lovely in Kilkishen. A difference of opinion over the weather almost leads to Mark being fired.
 

@@ -8,6 +8,7 @@ image: ThePodcastersS03E11.png
 image_alt: Its a big glug this time
 series: 03
 episode: 11
+post_time: "16:00:00"
 ---
 00:24 Wayne heartily introduces Series 3 Episode 11, which is indeed the penultimate episode of Season 3. The guys marvel at the fact of actually making it this far, and clumsily try to big themselves up. It's a murky rainy Bristol, which Wayne enjoys, while Mark tells us that Clare has has some great weather for the last while.
 

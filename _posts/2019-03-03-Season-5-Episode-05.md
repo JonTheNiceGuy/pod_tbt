@@ -8,6 +8,7 @@ image: ThePodcastersS05E05.png
 image_alt: They're still at it, the binary times guys in action
 series: 5
 episode: 5
+post_time: "10:10:00"
 ---
 00:24 Wayne welcomes us Series 5, Episode 5 from a cloudy Bristol, while Mark hails us from a wet and windy Kilkishen. The weather chat sparks a discussion about an apocalyptic future, saved by GNU/Linux.
 

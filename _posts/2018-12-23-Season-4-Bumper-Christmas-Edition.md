@@ -9,6 +9,7 @@ image_alt: Merry Xmas everyone.
 series: 4
 episode: 12
 part: b
+post_time: "13:30:00"
 ---
 00:24 Wayne welcomes us to the Super Bumper Christmas Edition of the Binary Times Podcast! Mark comments on the synchronicity between the intro music and the Christmas tree lights that he can see and Wayne tells us of the story behind his [Raspberry Pi Christmas Tree](https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi). The weather is clear in Bristol and grey in Kilkishen. Wayne apologises to our listeners for his absence last fortnight and any possible interruptions through this show.
 

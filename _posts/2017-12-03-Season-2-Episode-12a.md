@@ -10,6 +10,7 @@ image_alt: Its Noah Chelliah superimposed craftily into one of our pics!
 series: 2
 episode: 12
 part: a
+post_time: "08:30:00"
 ---
 In this special edition we talk to *Noah Chelliah*, previously of the [Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) and now of [Ask Noah Show](http://www.asknoahshow.com/) fame.
 Noah tells us a little about himself, how he implements free and open source software in organisations and how to sell this to either the executive board or small business leaders, how [freeipa](https://www.freeipa.org/page/Main_Page) can be used to replace active directory while Wayne mentions the [Linux Schools Project](http://www.linuxschools.com/forum/index-main.php).

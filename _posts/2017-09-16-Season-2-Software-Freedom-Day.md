@@ -8,6 +8,7 @@ image: ThePodcastersS02E05a.png
 image_alt: Software Freedom Day
 series: 2
 episode: sfd
+post_time: "14:10:00"
 ---
 ### Software Freedom Day - Woohoo!
 

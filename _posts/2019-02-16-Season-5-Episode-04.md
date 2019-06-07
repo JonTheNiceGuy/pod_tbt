@@ -8,6 +8,7 @@ image: ThePodcastersS05E04.png
 image_alt: Almost half way through the season
 series: 5
 episode: 4
+post_time: "15:30:00"
 ---
 
 00:24 Wayne welcomes us to Season 5 Episode 4 from a slightly overcast but nice weather Bristol. Mark tells us Spring is in the air and goes on to demonstrate his complete lack of gardening know how, luckily this is almost a Linux podcast and not a garden know how podcast!

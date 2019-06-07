@@ -8,9 +8,8 @@ image: ThePodcastersS05E06.png
 image_alt: It's our Solokeys competition results.
 series: 5
 episode: 6
+post_time: "11:50:00"
 ---
-
-
 00:24 Wayne welcomes us to Season 5 Episode 6 from a slightly overcast but warm Bristol, while Mark hails us from a weather warning beaten Kilkishen. Wayne has an idea to put [SAD lights](https://www.independent.co.uk/extras/indybest/house-garden/lighting/best-sad-lamps-light-therapy-seasonal-affective-disorder-lumie-how-to-treat-a6839106.html) around a monitor bevel to help with [Vitamin D deficiencies](https://www.webmd.com/diet/guide/vitamin-d-deficiency#). Mark thinks their listeners will get on it straight away, keep an eye on [CrowdSupply](https://www.crowdsupply.com/).
 
 02:55 Mark tells us he's been playing [Doom](https://www.gog.com/game/the_ultimate_doom) and [Hacknet](https://www.gog.com/game/hacknet) for the last while. He installed [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) and used the WAD to get fullscreen and had quite the enjoyable experience with it. He's also gotten the latest [Linux by Wiley Humble Bundle](https://www.humblebundle.com/books/linux-wiley-books) and has started reading the [Assembly Language Step by Step: Programming with Linux 3rd Edition](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993). Quite an interesting read so far, and a fantastic selection of books in the bundle.

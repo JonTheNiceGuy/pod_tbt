@@ -8,6 +8,7 @@ image: ThePodcastersS04E08.png
 image_alt: Its a weary day at The Binary Times studio
 series: 4
 episode: 8
+post_time: "13:20:00"
 ---
 00:24 Wayne Welcomes us to Season 4 Episode 8 from a sunny Bristol. Mark tells us that the fog is lifting and the skies are blue and all is calm in Kilkishen. Another Amazing Day for podcasting. The weather gets the guys talking about what activities are good to do in certain weather and how all this is related to Linux.
 

@@ -9,6 +9,7 @@ image: ThePodcastersS04E02.png
 image_alt: The Binary Times podcast with special guest Maurizio
 series: 4
 episode: 2
+post_time: "16:15:00"
 ---
 00:24 Wayne introduces Series 4 Episode 2 from a hot and sweaty Bristol. Mark's enjoying the pleasant change. Wayne goes on to introduce Maurizio Porrato, a listener of the podcast who's quite the expert with [LVM](http://tldp.org/HOWTO/LVM-HOWTO/whatislvm.html). A conversation ensues around Maurizio's Linux experience, how best to use LVM and some chat about various distributions. Maurizio recommends the [CentOS documentation on LVM](https://www.centos.org/docs/5/html/Cluster_Logical_Volume_Manager/) as well as the [man pages](https://linux.die.net/man/8/lvm) for more information on using LVM.
 

@@ -8,6 +8,7 @@ image: ThePodcastersS05E03.png
 image_alt: Mark and Wayne, back in body for Episode 3
 series: 5
 episode: 3
+post_time: "16:00:00"
 ---
 
 00:24 Wayne welcomes us to Series 5 Episode 3 from a cold snowy Bristol while Mark hails us from a lovely cold crisp morning in Kilkishen. The guys chat about [Fosdem](https://fosdem.org/2019/), the great talks that are there and their own production meetings.

@@ -8,6 +8,7 @@ image: ThePodcastersS04E05.png
 image_alt: The Binary Times guys are at it again
 series: 4
 episode: 5
+post_time: "16:40:00"
 ---
 00:24 Wayne welcomes us to Series 4 Episode 5 from a wet and muggy Bristol. Mark tells us it's a soft day in Kilkishen. Winter has finally arrived, fires and being lit, and the shop across the road from Mark has just installed an ice cream machine.
 

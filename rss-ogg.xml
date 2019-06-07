@@ -1,0 +1,45 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+	<title>The Binary Times Podcast - ogg</title>
+	
+	<link>https://www.thebinarytimes.net</link>
+  <description>Linux and open source tips, tricks and discussion.  Free software, hardware and modern culture.  The Binary Times podcast is created by Mark and Wayne, two chaps who just like using linux and open source software and want to spread the word.  Linux is free and open source and it is an excellent choice of operating system for our ever changing times.  This podcast is released fortnightly.</description>
+	<lastBuildDate>Sun, 26 Feb 2017 08:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+  <webMaster>info@thebinarytimes.net</webMaster>
+	<managingEditor>info@thebinarytimes.net</managingEditor>
+  <image>
+    <title>The Binary Times</title>
+    <url>https://www.thebinarytimes.net/images/BT_PodcastLogo1400x1400mp3.png</url>
+    <link>https://www.thebinarytimes.net/</link>
+  </image>
+
+{% for post in site.posts %}
+  <item>
+    <title>The Binary Times - Series {{ post.series }} Episode {{ post.episode }}</title>
+    <link>https://www.thebinarytimes.net/series{{ post.series }}#s{{ post.series }}e{{ post.episode }}</link>
+    <guid>https://www.thebinarytimes.net/index.php#s{{ post.series }}e{{ post.episode }}</guid>
+    <description><![CDATA[
+{%- if post.image != nil and post.image != empty %}
+      <img
+        src="{{ site.baseurl }}/assets/images/episode_images/{{ post.image }}"
+      alt="{% if post.image_alt != '' %}{{ post.image_alt }}{% else %}{{ post.title }} Post Image{% endif %}"
+      width="230"
+      height="191">
+{% endif -%}
+{{ post.content }}]]></description>
+{% if post.mp3 != '' %}
+    <enclosure url="{{ post.ogg }}" type="audio/ogg"/>
+{% endif %}
+    <category>Podcasts</category>
+    <category>Linux</category>
+    <category>Technology</category>
+    <pubDate>{{ post.date | date: "%a, %d %b %Y" }} {{ post.post_time }} GMT</pubDate>
+  </item>  
+{% endfor %}
+</channel>
+</rss>

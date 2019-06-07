@@ -8,6 +8,7 @@ image: ThePodcastersS03E05.png
 image_alt: Snow snow snow.
 series: 03
 episode: 05
+post_time: "16:45:00"
 ---
 00:24 Wayne introduces Series 3 Episode 5 of the ice cold binary times. Don't worry listeners if you're having trouble understanding Mark due to his poor audio, he's also speaking Irish!
 

@@ -8,6 +8,7 @@ image: ThePodcastersS05E08.png
 image_alt: Michael Tunnell joins us in the fun Binary Times episode
 series: 5
 episode: 8
+post_time: "$1"
 ---
 00:24 Wayne welcomes us to Season 5 Episode 8 of the Binary Times podcast by welcoming our guest to the show, [Michael Tunnell](https://michaeltunnell.com/) of [Tux Digital](https://tuxdigital.com/), [This Week in Linux](https://tuxdigital.com/thisweekinlinux/) and [Destination Linux](https://destinationlinux.org/). The guys talk about the weather and Michael tells us a bit about himself.
 

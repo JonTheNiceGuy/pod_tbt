@@ -9,6 +9,7 @@ image_alt: One man down.  Mark makes an appearance.
 series: 4
 episode: 12
 part: a
+post_time: "13:00:00"
 ---
 Mark welcomes us to a rather different Binary Times Episode. Wayne isn't well, so Mark tells us about what will be coming up in the next episode, which is the Bumper Christmas Episode!
 

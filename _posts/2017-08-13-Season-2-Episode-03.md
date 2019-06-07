@@ -8,6 +8,7 @@ image: ThePodcastersS02E03.png
 image_alt: No one at home
 layout: post
 permalink: /series2/episode3
+post_time: "12:00:00"
 ---
 00:25 Intro to Series 2 Episode 3 begins with a chat about the [meteor shower](https://www.space.com/32868-perseid-meteor-shower-guide.html) last night.Clear skies made for some great viewing and possibly good pictures.
 

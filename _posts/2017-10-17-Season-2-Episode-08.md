@@ -8,6 +8,7 @@ image: ThePodcastersS02E08.png
 image_alt: More tea, cant be more tea.
 series: 02
 episode: 08
+post_time: "07:30:00"
 ---
 00:24 Wayne introduces Series 2 Episode 8 of the most Action Packed Binary Times so far from a murky Bristol while Mark regails us with tales of hurricanes and bad weather that has been and on the way. Fairly Action Packed so far!
 

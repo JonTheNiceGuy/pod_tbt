@@ -8,6 +8,7 @@ image: ThePodcastersS02E07.png
 image_alt: Its all at different angles
 series: 02
 episode: 07
+post_time: "18:00:00"
 ---
 00:24 Wayne welcomes us to Season 2 Episode 7 of the binary times with the news that it's slightly misty in Bristol (register mistybristol now!) while Mark informs us that it's slightly more than misty in Kilkishen. It's that time of year, you can expect another six months of this kind of chat at least!
 

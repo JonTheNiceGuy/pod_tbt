@@ -8,6 +8,7 @@ image: ThePodcastersS04E10.png
 image_alt: The Binary Times boys are back in the hot seats
 series: 4
 episode: 10
+post_time: "17:20:00"
 ---
 00:24 Wayne welcomes us to Series 4 Episode 10 of the Binary Times. Bristol is bright and sunny, and Mark isn't sure what time zone he's in any more. At least the day is a good day to be alive in.
 

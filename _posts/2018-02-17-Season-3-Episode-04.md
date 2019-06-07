@@ -8,6 +8,7 @@ image: ThePodcastersS03E04.png
 image_alt: Big Slurppp!
 series: 03
 episode: 04
+post_time: "15:40:00"
 ---
 00:24 The guys are so happy to be welcoming you to Series 3 Episode 4 they can hardly contain their joy! The weather is great too! Woohoo! Wayne has loads of Linuxy stuff to talk about and Mark thinks it's nice to have things to talk about in a podcast. Wayne informs us of some of the limitations of self hosting and Mark informs us all that they are [where they want to be in terms of podcasting](https://www.dreamstime.com/royalty-free-stock-photography-man-yelling-all-alone-woods-low-angle-side-view-young-standing-image31839647).
 

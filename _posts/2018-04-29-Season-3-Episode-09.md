@@ -8,6 +8,7 @@ image: ThePodcastersS03E09c.png
 image_alt: Its that time, Ubuntu 1804
 series: 03
 episode: 09
+post_time: "10:45:00"
 ---
 00:24 Wayne introduces Series 3 Episode 9 from a slightly murky, slightly chilly Bristol while Mark greets us in his [bright orange Ubuntu T-Shirt](https://shop.canonical.com/product_info.php?_application_flags=7d5165aae41ea0e2a777ca6b8b20b6cd&currency=EUR&products_id=1088&sort=1a) from a gloriously sunny but chilly Kilkishen
 

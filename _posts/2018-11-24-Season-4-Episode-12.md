@@ -10,6 +10,7 @@ image: ThePodcastersS04E12.png
 image_alt: The Binary Times special 50th Episode
 series: 4
 episode: 12
+post_time: "19:50:00"
 ---
 00:24 Wayne welcomes us all to Series 4, Episode 12, our 50th Episode! Wayne explains how 12 times 4 equals 50. For this episode we have a number of guests, being [Ben Klaasen](https://twitter.com/benklaasen), [Maurizio Porrato](https://www.linkedin.com/in/maurizioporrato) and [Mike Saunders](https://blog.documentfoundation.org/blog/author/mikesaunders/). Wayne thanks them for their previous contributions and then asks each in turn what they've been up to in the Linux world.
 

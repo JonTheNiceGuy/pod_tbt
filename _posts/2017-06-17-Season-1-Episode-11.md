@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E11_Nilfhios/thebinarytimes_S
 mp3: http://archive.org/download/thebinarytimes_S01E11_Nilfhios/thebinarytimes_S01E11_Nilfhios.mp3 
 image: ThePodcasters11.png
 image_alt: Guess where Marks been, see his Insomnia mug
+post_time: "12:00:00"
 ---
 00:24 Intro to our eleventh episode, the penultimate episode of season 1! Weather is as always the first thing we chat about. Very [Irish](https://www.joe.ie/life-style/a-survey-reveals-exactly-how-much-irish-people-talk-about-the-weather-492284)!
 

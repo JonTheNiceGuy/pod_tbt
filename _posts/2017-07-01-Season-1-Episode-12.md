@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E12_SlanGoFoill/thebinarytime
 mp3: http://archive.org/download/thebinarytimes_S01E12_SlanGoFoill/thebinarytimes_S01E12_SlanGoFoill.mp3 
 image: ThePodcasters12.png
 image_alt: Its back to the Ubuntu mug
+post_time: "12:00:00"
 ---
 00:24 Intro to the final episode of Season One, where the guys managed to talk about not talking about the weather!
 

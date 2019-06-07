@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E07_GoNeiri/thebinarytimes_S0
 mp3: http://archive.org/download/thebinarytimes_S01E07_GoNeiri/thebinarytimes_S01E07_GoNeiri.mp3
 image: ThePodcasters7.png
 image_alt: The Podcasters in full glory
+post_time: "18:00:00"
 ---
 00:24 Intro, more sunny weather, Wayne and Mark talk about the relativity of time.
 

@@ -9,6 +9,7 @@ image: ThePodcastersS03E07.png
 image_alt: Its Mike Saunders
 series: 03
 episode: 07
+post_time: "15:05:00"
 ---
 00:24 Wayne kicks off episode 7 of season 3 with our usual weather report, followed by Mark and then followed by our special guest today, [Mike Saunders](https://blog.documentfoundation.org/blog/author/mikesaunders/)! Gloomy Grey pervades the weather in Bristol and Germany, while it's a nice crisp clear morning in Clare!
 

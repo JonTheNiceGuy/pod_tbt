@@ -9,6 +9,7 @@ image: ThePodcastersS04E06.png
 image_alt: The Binary Times guys with Paul Clyne
 series: 4
 episode: 6
+post_time: "21:00:00"
 ---
 00:24 Wayne introduces Series 4 Episode 6 of the Binary Times podcast from a slightly overcast but nice and mild Bristol. Mark joins us from an overcast, autumn definitely on the way, Kilkishen, while also introducing a new word "fantabal&aacute;sach", a mish mash of Irish/English meaning awfully great. While Wayne loves Autumn and Spring, Mark implores us to embrace all of life's aspects. Wayne thinks this is weird.
 

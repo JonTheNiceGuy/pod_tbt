@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E02_CeartGoLeor/thebinarytime
 mp3: http://archive.org/download/thebinarytimes_S01E02_CeartGoLeor/thebinarytimes_S01E02_CeartGoLeor.mp3
 image: ThePodcasters2.png
 image_alt: The Podcasters in full glory
+post_time: "11:00:00"
 ---
 00:27 intro
 

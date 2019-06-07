@@ -8,6 +8,7 @@ image: ThePodcastersS05E02.png
 image_alt: Mark and Wayne, settling in to Episode 2
 series: 5
 episode: 2
+post_time: "13:10:00"
 ---
 
 00:24 Wayne welcomes us to Series 5 Episode 2 from a cloudy cold Bristol while Mark hails us from a cold and foggy Kilkishen. The guys welcome the bug killing cold winter weather, though bug killing is probably the pervue of the [bug report podcast](https://bugreport.co.uk/)

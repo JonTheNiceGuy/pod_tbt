@@ -8,6 +8,7 @@ image: ThePodcastersS02E01.png
 image_alt: More mugs on show - Its the binary times podcast
 layout: post
 permalink: /series2/episode1
+post_time: "12:00:00"
 ---
 00:24 Intro to the first episode of our second season and the guys have decided to keep the weather thing going, despite its Bristol murkiness and Kilkishen dullness.
 

@@ -8,6 +8,7 @@ image: ThePodcastersS04E11.png
 image_alt: The Binary Times boys go to Freenode
 series: 4
 episode: 11
+post_time: "16:20:00"
 ---
 00:24 Wayne welcomes us to Series 4, Episode 11. Bristol's nice and calm, Kilkishen is nice and calm too. Mark comments on the armistice of WWI.
 

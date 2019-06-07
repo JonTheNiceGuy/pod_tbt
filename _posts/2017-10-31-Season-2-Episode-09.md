@@ -8,6 +8,7 @@ image: ThePodcastersS02E09.png
 image_alt: Marks new office
 series: 02
 episode: 09
+post_time: "14:00:00"
 ---
 00:24 Wayne welcomes us to the long awaited Bumper Edition of Season 2 Episode 9 of the Binary Times, it's something to look forward to! Between Halloween and the recent release of Ubuntu and flavours 17.10, there's a lot to talk about!
 

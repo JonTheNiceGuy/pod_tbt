@@ -8,6 +8,7 @@ image: ThePodcastersS04E09.png
 image_alt: The Binary Times boys are back in town
 series: 4
 episode: 9
+post_time: "06:20:00"
 ---
 00:25 Wayne welcomes us to Series 4 Episode 9 on this, the 13th October, 2018. It's beautiful, windy and cool in Bristol, and Mark tells us that he survived Storm Callum to tell the tale. Mark tells us that Extreme Weather can Extreme off for itself.
 

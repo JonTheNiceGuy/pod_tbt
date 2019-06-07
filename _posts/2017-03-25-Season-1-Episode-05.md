@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E05_LaBreitheSonaDhuit/thebin
 mp3: http://archive.org/download/thebinarytimes_S01E05_LaBreitheSonaDhuit/thebinarytimes_S01E05_LaBreitheSonaDhuit.mp3
 image: ThePodcasters5.png
 image_alt: The Podcasters in full glory
+post_time: "11:00:00"
 ---
 00:25 Intro, the guys would prefer to be outside enjoying the good weather
 

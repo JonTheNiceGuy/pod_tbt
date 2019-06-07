@@ -8,6 +8,7 @@ layout: post
 permalink: /series2/episode6
 series: 02
 episode: 06
+post_time: "11:10:00"
 ---
 
 00:24 Wayne welcomes us to Season 2 Episode 6 of the binary times by telling us that he loves [Autumnal weather](https://www.accuweather.com/en/weather-news/2017-europe-autumn-forecast-fierce-windstorms-to-blast-uk-rain-to-ease-drought-in-italy-and-the-balkans/70002458). It's cloudy in Bristol and cloudy, windy and raining in Kilkishen. Wayne informs Mark that clothes are available to keep the rain away and will send on some [links](https://www.natureshop.co.uk/collections/mens-sweaters-and-jackets?page=2) on same. Podcast Gold!

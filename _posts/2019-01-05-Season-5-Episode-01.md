@@ -8,6 +8,7 @@ image: ThePodcastersS05E01.png
 image_alt: Mark and Wayne, kicking off Series 5
 series: 5
 episode: 1
+post_time: "16:00:00"
 ---
 
 00:26 Wayne welcomes us to the first episode of Season 5 from a cold but calm Bristol. Mark tells us it's a great day in Kilkishen with blue skies and faraway clouds. They both marvel at the idea of a new year and a new season! The guys relate their Christmas experiences for the listeners.

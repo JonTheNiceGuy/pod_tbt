@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E06_ConasAtaTu/thebinarytimes
 mp3: http://archive.org/download/thebinarytimes_S01E06_ConasAtaTu/thebinarytimes_S01E06_ConasAtaTu.mp3
 image: ThePodcasters6.png
 image_alt: The Podcasters in full glory
+post_time: "11:00:00"
 ---
 00:25 Intro, and yet again the guys would prefer to be outside enjoying the good weather.
 

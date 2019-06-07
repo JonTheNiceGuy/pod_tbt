@@ -8,6 +8,7 @@ image: ThePodcastersS02E12.png
 image_alt: Its the ultimate episode of Series 2, no way!!
 series: 02
 episode: 12
+post_time: "20:30:00"
 ---
 00:24 Wayne welcomes us to the ultimate episode of season 2 and probably the final episode of 2017 while Mark leaves in the possibility of one more episode. This being essentially their Christmas episode, the guys talk of Christmas parties and jingles almost causes them to break tradition and not talk about the weather, though thankfully Wayne pulls it back and saves the day!
 

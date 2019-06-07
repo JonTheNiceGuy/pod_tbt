@@ -8,6 +8,7 @@ image: ThePodcastersS04E07.png
 image_alt: The Binary Times guys back in action
 series: 4
 episode: 7
+post_time: "12:20:00"
 ---
 00:24 Wayne welcomes us to Series 4, Episode 7 from a sunny, autumnal Bristol. He's enjoying the weather, it's good chicken weather! Mark greets us from an overcast, but calm Kilkishen. He fears that next week might be quite bad weather wise, watch this space, maybe retrospectively...
 

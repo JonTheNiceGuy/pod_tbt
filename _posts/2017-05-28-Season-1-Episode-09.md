@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_s01e09_tintean/thebinarytimes_s0
 mp3: http://archive.org/download/thebinarytimes_S01E09_Tintean/thebinarytimes_S01E09_Tintean.mp3 
 image: ThePodcasters9.png
 image_alt: The Podcasters in full glory
+post_time: "12:00:00"
 ---
 00:24 Intro, only some weather and nail gazing. Mark is calling from the tech hub of Coolick, Killarney. Pick up the number of blips due to wireless tech and you could win a [NICE biscuit](https://en.wikipedia.org/wiki/Nice_biscuit).
 

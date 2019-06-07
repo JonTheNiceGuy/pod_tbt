@@ -8,6 +8,7 @@ image: ThePodcastersS04E01.png
 image_alt: Mark and Wayne, kicking off Series 4
 series: 4
 episode: 1
+post_time: "14:15:00"
 ---
 00:25 Wayne welcomes us to Series 4, yes that's right, Series 4! Whiskey Blue Skies predominate the weather report, with streams of weather producing highs at the height of Summer to help the guys reach new heights!
 

@@ -9,6 +9,7 @@ image: ThePodcastersS04E03a.png
 image_alt: The Binary Times podcast with special guest Ben Klassen
 series: 4
 episode: 3
+post_time: "15:40:00"
 ---
 
 00:24 Wayne introduces Series 4 Episode 3 from another hot Bristol day. Wayne goes on to introduce Ben Klaaser, an avid walker and Linux enthusiast.  Ben uses Linux both at home and at work.  He is a software tester for the Irish Independent.  Last year Ben walked from Dublin to Istanbul.

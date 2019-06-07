@@ -8,6 +8,7 @@ image: ThePodcastersS02E04.png
 image_alt: Back on the tea.
 layout: post
 permalink: /series2/episode4
+post_time: "16:10:00"
 ---
 
 00:24 Wayne introduces the show once again with a weather update for Bristol while Mark tells us it's a bit muggy in Kilkishen

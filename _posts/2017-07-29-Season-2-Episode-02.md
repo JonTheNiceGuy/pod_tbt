@@ -8,6 +8,7 @@ image: ThePodcastersS02E02.png
 image_alt: More mugs on show - Its the binary times podcast
 layout: post
 permalink: /series2/episode2
+post_time: "12:00:00"
 ---
 
 00:24 Intro to Series 2 Episode 2 finds Mark congratulating Wayne on a great start and our podcasters are living in dull and murky places. The guys really get into their weather!

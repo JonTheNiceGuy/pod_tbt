@@ -8,6 +8,7 @@ ogg: http://archive.org/download/thebinarytimes_S01E04_TogGoBogE/thebinarytimes_
 mp3: http://archive.org/download/thebinarytimes_S01E04_TogGoBogE/thebinarytimes_S01E04_TogGoBogE.mp3
 image: ThePodcasters4.png
 image_alt: The Podcasters in full glory
+post_time: "11:00:00"
 ---
 00:28 intro
 

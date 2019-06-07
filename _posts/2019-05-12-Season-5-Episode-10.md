@@ -8,6 +8,7 @@ image: ThePodcastersS05E10.png
 image_alt: Just the two of us, Mary and Wayne of The Binary Times Podcast
 series: 5
 episode: 10
+post_time: "14:00:00"
 ---
 00:24 Wayne welcomes us to Series 5 Episode 10, and the guys discuss the weather and the impending heatwave.
 
